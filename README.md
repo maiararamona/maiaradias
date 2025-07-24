@@ -1,4 +1,4 @@
-### Olá! 👋 Me chamo Ramona
+### Olá! 👋 Me chamo Maiara
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 📍 Moro em **São Paulo - SP**
