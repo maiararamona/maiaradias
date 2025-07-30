@@ -4,7 +4,7 @@
 - 📍 Moro em **São Paulo - SP**
 - 👩‍💻 Tenho **26 anos**
 - 📚 Atualmente aprendendo **HTML, CSS e JavaScript**
-- 💙 Amo tecnologia 
+- 💙 Tecnologia 
 
 ---
 
